@@ -1,7 +1,7 @@
 
   # Stakeholder Feedback Management System
 
-  This is a code bundle for Stakeholder Feedback Management System. The original project is available at https://www.figma.com/design/IAtuUvrf2pFM57pvLn1n89/Stakeholder-Feedback-Management-System.
+  This is a code bundle for Stakeholder Feedback Management System. The original project is available at https://mauve-prime-93487522.figma.site/
 
   ## Running the code
 
